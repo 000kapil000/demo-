@@ -12,8 +12,8 @@ We expect to receive only the github link for this test.
 - Mui 5
 - Jest
 
-### Deployment
-
+### Deployment for code
+ddd
 You can use Netlify or Vercel to deploy your application and include the URL deployment in your readme file.
 
 ## The goal
@@ -34,7 +34,7 @@ You are free for the design but you can only use Mui 5 as a library, any other s
 
 1. Code need to be fully tested using Jest
 2. No other library
-3. Your app should deployed in Netlify or Vercel
+3. Your app should deployed in Netlify or Vercel asfedweewdd
 4. Your app should be fully documented
 
 Good Luck!
